@@ -12,8 +12,8 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/Alex-Joe-Lee/lede
-  REPO_BRANCH: dev
+  REPO_URL: https://github.com/Alex-Joe-Lee/openwrt
+  REPO_BRANCH: master
 
 on:
   workflow_dispatch:
